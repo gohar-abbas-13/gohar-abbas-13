@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Gohar Abbas 👋
 
-<!--
-**gohar-abbas-13/gohar-abbas-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at FAST NUCES with a growing interest in software engineering, artificial intelligence, and backend development.
 
-Here are some ideas to get you started:
+After spending more time learning than building during my first two years at university, I've decided to change that. This GitHub marks a fresh start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the coming months, I'll be using this space to document my journey as I build projects, strengthen my understanding of computer science fundamentals, and improve as a developer.
+
+## Currently Working On
+
+* Data Structures & Algorithms
+* Python
+* C++
+* Git & GitHub
+* Building projects from scratch
+
+## Current Goals
+
+* Develop a strong foundation in software engineering
+* Build projects that solve real problems
+* Learn by creating, experimenting, and improving
+* Contribute to open-source when I'm ready
+
+## Tech Stack
+
+**Languages**
+
+* Python
+* C++
+* SQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+I believe good software is built through consistency, curiosity, and continuous improvement. Every repository here represents another step in that journey.
+
+Thanks for stopping by.
