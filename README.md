@@ -1,10 +1,8 @@
 # Hi, I'm Gohar Abbas 👋
 
-I'm a Computer Science student at FAST NUCES with a growing interest in software engineering, artificial intelligence, and backend development.
+I'm a Computer Science student at FAST-NUCES, passionate about programming, problem-solving, and understanding how things work behind the scenes.
 
-After spending more time learning than building during my first two years at university, I've decided to change that. This GitHub marks a fresh start.
-
-Over the coming months, I'll be using this space to document my journey as I build projects, strengthen my understanding of computer science fundamentals, and improve as a developer.
+I enjoy exploring computer science fundamentals, building projects, learning new technologies, and improving my problem-solving skills.
 
 ## Currently Working On
 
